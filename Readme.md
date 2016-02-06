@@ -35,7 +35,7 @@ Everything you need to make your own, real-life, hard copies of _[Harry Potter a
 
 ## Details
 
-![Volume 1: Harry Potter and the Methods of Rationality](/Volume%201/volume-one.png)
+![Volume 1: Harry Potter and the Methods of Rationality](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
 
 ##### Volume 1: Harry Potter and the Methods of Rationality
   - Pages: 352
