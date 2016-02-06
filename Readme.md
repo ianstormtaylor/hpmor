@@ -46,6 +46,9 @@ Price: $5.98 (Standard), $8.29 (Premium)
 ```
 
 ![Volume 2: Harry Potter and the Professor's Games](2%20-%20Harry%20Potter%20and%20the%20Professor's%20Games/cover.png)
+
+> A small study room, near but not in the Ravenclaw dorm, one of the many many unused rooms of Hogwarts. Gray stone the floors, red brick the walls, dark stained wood the ceiling, four glowing glass globes set into the four walls of the room. A circular table that looked like a wide slab of black marble set on thick black marble legs for columns, but which...
+
 ```yaml
 Title: Harry Potter and the Professor's Games
 Pages: 288 
