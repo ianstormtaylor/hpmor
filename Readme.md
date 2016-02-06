@@ -1,7 +1,9 @@
 
 # Harry Potter and the Methods of Rationality!
 
-Make your own hard copies of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_ with [Lulu](http://www.lulu.com/)!
+This repository contains everything you need to make your own real-life, hard copies of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_ with [Lulu](http://www.lulu.com/)! 
+
+![Harry Potter and the Methods of Rationality](images/title.png)
 
 - [Praise](#praise)
 - [Volumes](#volumes)
@@ -49,7 +51,7 @@ Title: Harry Potter and the Shadows of Death
 Pages: 398 
 Size: 6" x 9"
 Weight: 1.46 lbs.
-Price: $66.2 (Standard), $9.21 (Premium)
+Price: $6.62 (Standard), $9.21 (Premium)
 ```
 
 ![Volume 4: Harry Potter and the Phoenix's Call](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
