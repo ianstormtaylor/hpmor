@@ -41,7 +41,7 @@ Everything you need to make your own, real-life, hard copies of _[Harry Potter a
 Pages: 352
 Size: 6" x 9"
 Weight: 1.30 lbs.
-Price: $8.29
+Price: $5.98 (Standard), $8.29 (Premium)
 ```
 
 ### Volume 2: Harry Potter and the Professor's Games
@@ -50,7 +50,7 @@ Price: $8.29
 Pages: 288 
 Size: 6" x 9"
 Weight: 1.08 lbs.
-Price: $7.01
+Price: $5.08 (Standard), $7.01 (Premium)
 ```
 
 ### Volume 3: Harry Potter and the Shadows of Death
@@ -59,7 +59,7 @@ Price: $7.01
 Pages: 398 
 Size: 6" x 9"
 Weight: 1.46 lbs.
-Price: $9.21
+Price: $66.2 (Standard), $9.21 (Premium)
 ```
 
 ### Volume 4: Harry Potter and the Phoenix's Call
@@ -68,7 +68,7 @@ Price: $9.21
 Pages: 394
 Size: 6" x 9"
 Weight: 1.44 lbs.
-Price: $9.13
+Price: $6.57 (Standard), $9.13 (Premium)
 ```
 
 ### Volume 5: Harry Potter and the Last Enemy
@@ -77,7 +77,7 @@ Price: $9.13
 Pages: 232
 Size: 6" x 9"
 Weight: 0.89 lbs.
-Price: $5.89
+Price: $4.30 (Standard), $5.89 (Premium)
 ```
 
 ### Volume 6: Harry Potter and the Philosopher's Stone
@@ -86,7 +86,7 @@ Price: $5.89
 Pages: 322
 Size: 6" x 9"
 Weight: 1.20 lbs.
-Price: $7.69
+Price: $5.56 (Standard), $7.69 (Premium)
 ```
 
 
