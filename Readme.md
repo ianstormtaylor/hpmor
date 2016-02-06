@@ -95,7 +95,7 @@ Price: $4.30 (Standard), $5.89 (Premium)
 
 ![Volume 6: Harry Potter and the Philosopher's Stone](6%20-%20Harry%20Potter%20and%20the%20Philosopher's%20Stone/cover.png)
 
-> May 13th, 1992. Argus Filch's face appeared twisted in the light of the oil lamp he held, shadows dancing over his face. Behind them the doors of Hogwarts quickly receded, and the dark grounds moved closer. The track they now walked was muddy and indistinct. The trees, branches formerly bare with winter, were not fully clad with spring; their branches...
+> May 13th, 1992. Argus Filch's face appeared twisted in the light of the oil lamp he held, shadows dancing over his face. Behind them the doors of Hogwarts quickly receded, and the dark grounds moved closer. The track they now walked was muddy and indistinct. The trees, branches formerly bare with winter, were not fully clad with spring; their...
 
 ```yaml
 Title: Harry Potter and the Philosopher's Stone
