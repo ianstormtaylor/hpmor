@@ -82,6 +82,9 @@ Price: $6.57 (Standard), $9.13 (Premium)
 ```
 
 ![Volume 5: Harry Potter and the Last Enemy](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
+
+> The four of them gathered once more around the ancient desk of the Headmaster of Hogwarts, with its drawers within drawers within drawers, wherein all the past paperwork of the Hogwarts School was stored; legend had it that Headmistress Shehla had once gotten lost in that desk, and was, in fact, still there, and wouldn't be let out...
+
 ```yaml
 Title: Harry Potter and the Last Enemy
 Pages: 232
