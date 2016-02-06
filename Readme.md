@@ -59,7 +59,7 @@ Price: $5.08 (Standard), $7.01 (Premium)
 
 ![Volume 3: Harry Potter and the Shadows of Death](3%20-%20Harry%20Potter%20and%20the%20Shadows%20of%20Death/cover.png)
 
-> Bright the sun, bright the air, bright the students and bright their parents, clean the paved ground of Platform 9.75, the winter Sun hanging low in the sky at 9:45AM in the morning on January 5th, 1992. Some of the younger students wore scarves and mittens, but most simply wore their robes; they were wizards, after all.
+> Bright the sun, bright the air, bright the students and bright their parents, clean the paved ground of Platform 9.75, the winter Sun hanging low in the sky at 9:45AM in the morning on January 5th, 1992. Some of the younger students wore scarves and mittens, but most simply wore their robes; they were wizards, after all. After Harry had moved...
 
 ```yaml
 Title: Harry Potter and the Shadows of Death
@@ -83,7 +83,7 @@ Price: $6.57 (Standard), $9.13 (Premium)
 
 ![Volume 5: Harry Potter and the Last Enemy](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
 
-> The four of them gathered once more around the ancient desk of the Headmaster of Hogwarts, with its drawers within drawers within drawers, wherein all the past paperwork of the Hogwarts School was stored; legend had it that Headmistress Shehla had once gotten lost in that desk, and was, in fact, still there, and wouldn't be let out...
+> The four of them gathered once more around the ancient desk of the Headmaster of Hogwarts, with its drawers within drawers within drawers, wherein all the past paperwork of the Hogwarts School was stored; legend had it that Headmistress Shehla had once gotten lost in that desk, and was, in fact, still there, and wouldn't be let out again until...
 
 ```yaml
 Title: Harry Potter and the Last Enemy
@@ -94,6 +94,9 @@ Price: $4.30 (Standard), $5.89 (Premium)
 ```
 
 ![Volume 6: Harry Potter and the Philosopher's Stone](6%20-%20Harry%20Potter%20and%20the%20Philosopher's%20Stone/cover.png)
+
+> May 13th, 1992. Argus Filch's face appeared twisted in the light of the oil lamp he held, shadows dancing over his face. Behind them the doors of Hogwarts quickly receded, and the dark grounds moved closer. The track they now walked was muddy and indistinct. The trees, branches formerly bare with winter, were not fully clad with spring; their branches stretched...
+
 ```yaml
 Title: Harry Potter and the Philosopher's Stone
 Pages: 322
