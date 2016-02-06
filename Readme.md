@@ -34,6 +34,9 @@ Want an ebook? Then you don't need this repository! Because that's [already offi
 ## Volumes
 
 ![Volume 1: Harry Potter and the Methods of Rationality](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
+
+> Every inch of wall space is covered by a bookcase. Each bookcase has six shelves, going almost to the ceiling. Some bookshelves are stacked to the brim with hardback books: science, maths, history, and everything else. Other shelves...
+
 ```yaml
 Title: Harry Potter and the Methods of Rationality
 Pages: 352
