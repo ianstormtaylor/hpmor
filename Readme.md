@@ -1,7 +1,14 @@
 
-# Harry Potter and the Methods of Rationality, for Lulu!
+# Harry Potter and the Methods of Rationality, with Lulu!
 
-Everything you need to make your own, real-life, hard copies of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_ on [Lulu](http://www.lulu.com/).
+Everything you need to make your own, real-life, hard copies of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_ with [Lulu](http://www.lulu.com/).
+
+- [Praise](#praise)
+- [Details](#details)
+- [Instructions](#instructions)
+
+
+## Praise
 
 > "Harry Potter and the Methods of Rationality poses an alternate world in which Harry is a genius. ... It's a terrific series, subtle and dramatic and stimulating. Yudkowsky gets it, and lots else. Smart guy, good writer. Poses hugely terrific questions that I, too, had thought of... and a number that I hadn't. Enjoyed all references to the Enlightenment. I wish all Potter fans would go here, and try on a bigger, bolder and more challenging tale."
 > —[David Brin](http://davidbrin.blogspot.com/2010/06/secret-of-college-life-plus.html)
@@ -16,4 +23,50 @@ Everything you need to make your own, real-life, hard copies of _[Harry Potter a
 > —[Aaron Swartz](http://www.aaronsw.com/weblog/books2011)
 
 
+## Details
+
+##### Volume 1: Harry Potter and the Methods of Rationality
+  - Pages: 352
+  - Size: 6" x 9"
+  - Weight: 1.30 lbs.
+  - Price: $8.29
+
+##### Volume 2: Harry Potter and the Professor's Games
+  - Pages: 288 
+  - Size: 6" x 9"
+  - Weight: 1.08 lbs.
+  - Price: $7.01
+  
+##### Volume 3: Harry Potter and the Shadows of Death
+  - Pages: 398 
+  - Size: 6" x 9"
+  - Weight: 1.46 lbs.
+  - Price: $9.21
+
+##### Volume 4: Harry Potter and the Phoenix's Call
+  - Pages: 394
+  - Size: 6" x 9"
+  - Weight: 1.44 lbs.
+  - Price: $9.13
+
+##### Volume 5: Harry Potter and the Last Enemy
+  - Pages: 232
+  - Size: 6" x 9"
+  - Weight: 0.89 lbs.
+  - Price: $5.89
+
+##### Volume 6: Harry Potter and the Philosopher's Stone
+  - Pages: 322
+  - Size: 6" x 9"
+  - Weight: 1.20 lbs.
+  - Price: $7.69
+
+
 ## Instructions
+
+TODO
+
+
+## Thanks
+
+Thanks to [J. K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) for creating the entire [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) universe, characters, etc. and to [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) for writing [Harry Potter and the Methods of Rationality](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality).
