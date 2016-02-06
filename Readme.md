@@ -35,6 +35,7 @@ Everything you need to make your own, real-life, hard copies of _[Harry Potter a
 
 ## Details
 
+
 ![Volume 1: Harry Potter and the Methods of Rationality](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
 
 ##### Volume 1: Harry Potter and the Methods of Rationality
@@ -43,17 +44,26 @@ Everything you need to make your own, real-life, hard copies of _[Harry Potter a
   - Weight: 1.30 lbs.
   - Price: $8.29
 
+
+![Volume 2: Harry Potter and the Professor's Games](2%20-%20Harry%20Potter%20and%20the%20Professor's%20Games/cover.png)
+
 ##### Volume 2: Harry Potter and the Professor's Games
   - Pages: 288 
   - Size: 6" x 9"
   - Weight: 1.08 lbs.
   - Price: $7.01
   
+
+![Volume 3: Harry Potter and the Shadows of Death](3%20-%20Harry%20Potter%20and%20the%20Shadows%20of%20Death/cover.png)
+
 ##### Volume 3: Harry Potter and the Shadows of Death
   - Pages: 398 
   - Size: 6" x 9"
   - Weight: 1.46 lbs.
   - Price: $9.21
+
+
+![Volume 4: Harry Potter and the Phoenix's Call](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
 
 ##### Volume 4: Harry Potter and the Phoenix's Call
   - Pages: 394
@@ -61,11 +71,17 @@ Everything you need to make your own, real-life, hard copies of _[Harry Potter a
   - Weight: 1.44 lbs.
   - Price: $9.13
 
+
+![Volume 5: Harry Potter and the Last Enemy](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
+
 ##### Volume 5: Harry Potter and the Last Enemy
   - Pages: 232
   - Size: 6" x 9"
   - Weight: 0.89 lbs.
   - Price: $5.89
+
+
+![Volume 6: Harry Potter and the Philosopher's Stone](6%20-%20Harry%20Potter%20and%20the%20Philosopher's%20Stone/cover.png)
 
 ##### Volume 6: Harry Potter and the Philosopher's Stone
   - Pages: 322
