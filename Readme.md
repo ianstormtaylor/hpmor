@@ -3,7 +3,7 @@
 
 This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_ with [Lulu](http://www.lulu.com/)! 
 
-Eliezer Yudkowsky, or anyone else, isn't allowed to sell the book, because it's based on J. K. Rowling's copyrighted universe of characters. But, you _can_ create your own private copy of the book with Lulu, a service that prints books on demand, and then order yourself a proof copy. That way, you get to experience Harry Potter and the Methods of Rationality on paper!
+Eliezer Yudkowsky, or anyone else, isn't allowed to sell the book, because it's based on J. K. Rowling's copyrighted universe of characters. But, you _can_ create your own private copy of the book with Lulu, a service that prints books on demand, and then order yourself a proof copy. That way, you can experience it on paper!
 
 Want an ebook? Then you don't need this repository! Because that's [already officially supported](http://hpmor.com/).
 
