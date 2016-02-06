@@ -1,11 +1,12 @@
 
 ![Harry Potter and the Methods of Rationality](images/title.png)
 
-This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_ with [Lulu](http://www.lulu.com/)! 
+This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_, with [Lulu](http://www.lulu.com/)! 
 
 Eliezer Yudkowsky, or anyone else, isn't allowed to sell the book, because it's based on J. K. Rowling's copyrighted universe of characters. But, you _can_ create your own private copy of the book with Lulu, a service that prints books on demand, and then order yourself a proof copy. That way, you can experience it on paper!
 
 Want an ebook? Then you don't need this repository! Because that's [already officially supported](http://hpmor.com/).
+
 
 ## Table of Contents
 
@@ -108,9 +109,33 @@ Price: $5.56 (Standard), $7.69 (Premium)
 
 ## Instructions
 
-TODO
+To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with Lulu. We're going to use Lulu's "private" feature, so that the books are only visible to you, so that you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
+
+![](images/00.png)
+
+To start, download a copy of this repository as a ZIP file, and extract it somewhere on your computer.
+
+![](images/0.png)
+
+You should end up with a folder that contains subfolders with the resources needed to create each volume. We'll use these files during the Lulu book creation process.
+
+If you don't have one already, you'll need to create your own account on Lulu first, so you can create and order your own books.
+
+![](images/1.png)
+
+Then, on the homepage, click **Create** and create a new _paperback_ book.
+
+![](images/2.png)
+
+Select the **6" x 9"** book, of either **Standard** or **Premium** quality. I chose Premium paper, but Standard should work just fine as well, and be slightly cheaper.
+
+![](images/3.png)
+
+
+
+
 
 
 ## Thanks
 
-Thanks to [J. K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) for creating the entire [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) universe, characters, etc. and to [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) for writing [Harry Potter and the Methods of Rationality](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality).
+Thanks to [J. K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) for creating the entire [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) universe, characters, etc. Thanks to [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) for writing [Harry Potter and the Methods of Rationality](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality). And thanks to everyone else who has done interesting things with Harry Potter and the Methods of Rationality for the inspiration!
