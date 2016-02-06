@@ -47,7 +47,7 @@ Price: $5.98 (Standard), $8.29 (Premium)
 
 ![Volume 2: Harry Potter and the Professor's Games](2%20-%20Harry%20Potter%20and%20the%20Professor's%20Games/cover.png)
 
-> A small study room, near but not in the Ravenclaw dorm, one of the many many unused rooms of Hogwarts. Gray stone the floors, red brick the walls, dark stained wood the ceiling, four glowing glass globes set into the four walls of the room. A circular table that looked like a wide slab of black marble set on thick black marble legs for columns, but which...
+> A small study room, near but not in the Ravenclaw dorm, one of the many many unused rooms of Hogwarts. Gray stone the floors, red brick the walls, dark stained wood the ceiling, four glowing glass globes set into the four walls of the room. A circular table that looked like a wide slab of black marble set on thick black marble legs for columns, but...
 
 ```yaml
 Title: Harry Potter and the Professor's Games
@@ -58,6 +58,9 @@ Price: $5.08 (Standard), $7.01 (Premium)
 ```
 
 ![Volume 3: Harry Potter and the Shadows of Death](3%20-%20Harry%20Potter%20and%20the%20Shadows%20of%20Death/cover.png)
+
+> Bright the sun, bright the air, bright the students and bright their parents, clean the paved ground of Platform 9.75, the winter Sun hanging low in the sky at 9:45AM in the morning on January 5th, 1992. Some of the younger students wore scarves and mittens, but most simply wore their robes; they were wizards, after all.
+
 ```yaml
 Title: Harry Potter and the Shadows of Death
 Pages: 398 
@@ -67,6 +70,9 @@ Price: $6.62 (Standard), $9.21 (Premium)
 ```
 
 ![Volume 4: Harry Potter and the Phoenix's Call](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
+
+> Hermione Granger had read somewhere once, that one of the keys to staying thing was to pay attention to the food you ate, to notice yourself eating it, so that you were satisfied with the meal. This morning she'd made herself toast, and put butter on the toast, and cinnamon on the butter, and it really should've been enough to get her to _notice_...
+
 ```yaml
 Title: Harry Potter and the Phoenix's Call
 Pages: 394
