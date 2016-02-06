@@ -37,10 +37,12 @@ Everything you need to make your own, real-life, hard copies of _[Harry Potter a
 
 ### Volume 1: Harry Potter and the Methods of Rationality
 ![Volume 1: Harry Potter and the Methods of Rationality](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
-  - Pages: 352
-  - Size: 6" x 9"
-  - Weight: 1.30 lbs.
-  - Price: $8.29
+```
+Pages: 352
+Size: 6" x 9"
+Weight: 1.30 lbs.
+Price: $8.29
+```
 
 ### Volume 2: Harry Potter and the Professor's Games
 ![Volume 2: Harry Potter and the Professor's Games](2%20-%20Harry%20Potter%20and%20the%20Professor's%20Games/cover.png)
