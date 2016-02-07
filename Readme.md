@@ -139,7 +139,7 @@ Then enter the title and author information you want, which is only useful for k
 
 ![](images/6.png)
 
-Next you need **Choose File**...
+Next you need to hit **Choose File**...
 
 ![](images/7.png)
 
@@ -195,19 +195,19 @@ Once it has, you should see the cover image. Hit **Save & Continue**...
 
 ![](images/20.png)
 
-...and then **Save & Finish**.
+...and then **Save & Finish**...
 
 ![](images/21.png)
 
-Now the book is complete, and you can click the long URL to see it.
+...and the book is complete! Now you can click that long URL to see it.
 
 ![](images/22.png)
 
-There it is. Now all you need to do is **Add to Cart**. 
+There it is. Now all you need to do is **Add to Cart**... 
 
 ![](images/23.png)
 
-And there you have it! You can either continue making a book for each other volume in the series, or, if you haven't read the series yet, you can just order the first volume and see if you like it!
+...and there you have it! You can either continue making a book for each other volume in the series and add them to your cart too, or, if you haven't read the series yet, you can just order the first volume and see if you like it first!
 
 Have fun!
 
