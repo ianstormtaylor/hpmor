@@ -111,29 +111,49 @@ Price: $5.56 (Standard), $7.69 (Premium)
 
 To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with Lulu. We're going to use Lulu's "private" feature, so that the books are only visible to you, so that you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
 
-![](images/00.png)
+![](images/0.png)
 
 To start, download a copy of this repository as a ZIP file, and extract it somewhere on your computer.
 
-![](images/0.png)
+![](images/1.png)
 
 You should end up with a folder that contains subfolders with the resources needed to create each volume. We'll use these files during the Lulu book creation process.
 
-If you don't have one already, you'll need to create your own account on Lulu first, so you can create and order your own books.
-
-![](images/1.png)
-
-Then, on the homepage, click **Create** and create a new _paperback_ book.
+If you don't have one already, you'll need to create your own Lulu account.
 
 ![](images/2.png)
 
-Select the **6" x 9"** book, of either **Standard** or **Premium** quality. I chose Premium paper, but Standard should work just fine as well, and be slightly cheaper.
+Then, on the homepage, click **Create** and create a new _paperback_ book.
 
 ![](images/3.png)
 
+Select the **6" x 9"** book, of either **Standard** or **Premium** quality, and then click **Make this book**. I chose Premium paper, but Standard should work just fine as well, and be slightly cheaper.
 
+![](images/4.png)
 
+Then enter the title and author information you want, which is only useful for keeping track yourself, since no one else will ever see it. Make sure to select **Make available only to me** so that you aren't violating copyright! That's critical.
 
+![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
+![](images/10.png)
+![](images/11.png)
+![](images/12.png)
+![](images/13.png)
+![](images/14.png)
+![](images/15.png)
+![](images/16.png)
+![](images/17.png)
+![](images/18.png)
+![](images/19.png)
+![](images/20.png)
+![](images/21.png)
+![](images/22.png)
+![](images/23.png)
+
+And there you have it! Complete your order and wait for your hard copy (or copies) to arrive!
 
 
 ## Thanks
