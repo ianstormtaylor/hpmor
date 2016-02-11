@@ -30,7 +30,7 @@ Title: Harry Potter and the Methods of Rationality
 Pages: 352
 Size: 6" x 9"
 Weight: 1.30 lbs.
-Price: $5.98 (Standard), $8.29 (Premium)
+Price: $8.29 (Premium)
 ```
 
 [![Volume 2: Harry Potter and the Professor's Games](Miscellaneous/cover-2.png)](2%20-%20Harry%20Potter%20and%20the%20Professor's%20Games/cover.png)
@@ -42,7 +42,7 @@ Title: Harry Potter and the Professor's Games
 Pages: 288 
 Size: 6" x 9"
 Weight: 1.08 lbs.
-Price: $5.08 (Standard), $7.01 (Premium)
+Price: $7.01 (Premium)
 ```
 
 [![Volume 3: Harry Potter and the Shadows of Death](Miscellaneous/cover-3.png)](3%20-%20Harry%20Potter%20and%20the%20Shadows%20of%20Death/cover.png)
@@ -54,7 +54,7 @@ Title: Harry Potter and the Shadows of Death
 Pages: 398 
 Size: 6" x 9"
 Weight: 1.46 lbs.
-Price: $6.62 (Standard), $9.21 (Premium)
+Price: $9.21 (Premium)
 ```
 
 [![Volume 4: Harry Potter and the Phoenix's Call](Miscellaneous/cover-4.png)](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
@@ -66,7 +66,7 @@ Title: Harry Potter and the Phoenix's Call
 Pages: 394
 Size: 6" x 9"
 Weight: 1.44 lbs.
-Price: $6.57 (Standard), $9.13 (Premium)
+Price: $9.13 (Premium)
 ```
 
 [![Volume 5: Harry Potter and the Last Enemy](Miscellaneous/cover-5.png)](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
@@ -78,7 +78,7 @@ Title: Harry Potter and the Last Enemy
 Pages: 232
 Size: 6" x 9"
 Weight: 0.89 lbs.
-Price: $4.30 (Standard), $5.89 (Premium)
+Price: $5.89 (Premium)
 ```
 
 [![Volume 6: Harry Potter and the Philosopher's Stone](Miscellaneous/cover-6.png)](6%20-%20Harry%20Potter%20and%20the%20Philosopher's%20Stone/cover.png)
@@ -90,7 +90,7 @@ Title: Harry Potter and the Philosopher's Stone
 Pages: 322
 Size: 6" x 9"
 Weight: 1.20 lbs.
-Price: $5.56 (Standard), $7.69 (Premium)
+Price: $7.69 (Premium)
 ```
 
 
@@ -102,7 +102,7 @@ If you haven't made a book on Lulu before, follow the [step by step instructions
 
 If you have, here's the TL;DR:
 
-- Create a new **6" x 9" paperback** book on Lulu. (Either **Standard** or **Premium**.)
+- Create a new **Premium 6" x 9" paperback** book on Lulu.
 - **Make the book only available to yourself**.
 - Add the `contents.pdf` file for the volume.
 - Using the **advanced one-piece cover designer**, add the `cover.png` file.

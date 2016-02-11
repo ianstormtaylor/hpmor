@@ -23,7 +23,7 @@ And then, click to **Start a print book**.
 
 ![](Miscellaneous/step-4.png)
 
-Select the **6" x 9"** book, of either **Standard** or **Premium** quality, and then click **Make this book**. I chose Premium paper, but Standard should work just fine as well, and be slightly cheaper.
+Select the **Premium 6" x 9"** book, and then click **Make this book**. Note, the covers are designed from books with **Premium** paper, since the paper quality changes the thickness of the spine. You can still go with **Standard** to reduce the cost slightly, but the cover might be a few extra millimeters off. 
 
 ![](Miscellaneous/step-5.png)
 
