@@ -19,7 +19,7 @@ Want an ebook? Then you don't need this repository! Because that's [already offi
 
 ## Volumes
 
-The Harry Potter and the Methods of Rationality series comprises six volumes all together. This repository includes a `contents.pdf` and `cover.png` for each volume. And each volume costs **between $4 and $10**, depending on what type of paperback book you choose on Lulu.
+The Harry Potter and the Methods of Rationality series comprises six volumes all together. This repository includes a `contents.pdf` and `cover.png` for each volume. And each volume costs **between $5 and $10**.
 
 [![Volume 1: Harry Potter and the Methods of Rationality](Miscellaneous/cover-1.png)](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
 
