@@ -61,7 +61,11 @@ Size: 6" x 9"
 Weight: Unknown
 Price: $6.27 (Premium)
 ```
-**current edit ends here**
+
+
+**CURRENT EDDIT ENDS HERE**
+
+
 [![Volume 4: Harry Potter and the Phoenix's Call](Miscellaneous/cover-4.png)](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
 
 > Hermione Granger had read somewhere once, that one of the keys to staying thing was to pay attention to the food you ate, to notice yourself eating it, so that you were satisfied with the meal. This morning she'd made herself toast, and put butter on the toast, and cinnamon on the butter, and it really should've been enough to get her to _notice_...
