@@ -24,7 +24,7 @@ Want an ebook? Then you don't need this repository! Because that's [already offi
 
 ## Volumes
 
-The Harry Potter and the Methods of Rationality series comprises six volumes all together. This repository includes a `contents.pdf` and `cover.png` for each volume. And each volume costs **between $4 and $6** (plus shiping of ≈ 5).
+The Harry Potter and the Methods of Rationality series comprises six volumes all together. This repository includes a `contents.pdf` and `cover.png` for each volume. And each volume costs **between $4 and $7** (plus shiping of ≈ 5).
 
 [![Volume 1: Harry Potter and the Methods of Rationality](Miscellaneous/cover-1.png)](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
 
@@ -58,8 +58,8 @@ Price: $5.13 (Premium)
 Title: Harry Potter and the Shadows of Death
 Pages: 398 
 Size: 6" x 9"
-Weight: 1.46 lbs.
-Price: $9.21 (Premium)
+Weight: Unknown
+Price: $6.27 (Premium)
 ```
 **current edit ends here**
 [![Volume 4: Harry Potter and the Phoenix's Call](Miscellaneous/cover-4.png)](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
