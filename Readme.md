@@ -1,9 +1,14 @@
 
 ![Harry Potter and the Methods of Rationality](Miscellaneous/title.png)
 
-This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_, with [Lulu](http://www.lulu.com/)! 
+This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_, with ~~Lulu~~ [Blurb](http://www.blurb.com/)! 
 
-Eliezer Yudkowsky, or anyone else, isn't allowed to sell the book, because it's based on J. K. Rowling's copyrighted universe of characters. But, you _can_ create your own private copy of the book with Lulu, a service that prints books on demand, and then order yourself a proof copy. That way, you can experience it on paper!
+Lulu has cancelled people's orders that use this method. I recently used the resources in this guide to order the books from Blurb, another online publishing website. I thought others might find my work useful, as I had to resize pdfs and reformat everything. Most of this work is [ianstormtaylor's](https://github.com/ianstormtaylor)
+
+Eliezer Yudkowsky, or anyone else, isn't allowed to sell the book, because it's based on J. K. Rowling's copyrighted universe of characters. But, you _can_ create your own private copy of the book with ~~Lulu~~ Blurb, a service that prints books on demand, and then order yourself a proof copy. That way, you can experience it on paper!
+
+**# WARNING #**
+**Do not attempt to sell this book on blurb. Not only is it illegal, but when blurb innevitably receives a copyright claim, they will no longer print these books for anyone else.**
 
 Want an ebook? Then you don't need this repository! Because that's [already officially supported](http://hpmor.com/).
 
@@ -19,7 +24,7 @@ Want an ebook? Then you don't need this repository! Because that's [already offi
 
 ## Volumes
 
-The Harry Potter and the Methods of Rationality series comprises six volumes all together. This repository includes a `contents.pdf` and `cover.png` for each volume. And each volume costs **between $5 and $10**.
+The Harry Potter and the Methods of Rationality series comprises six volumes all together. This repository includes a `contents.pdf` and `cover.png` for each volume. And each volume costs **between $4 and $7** (plus shiping of ≈ 5).
 
 [![Volume 1: Harry Potter and the Methods of Rationality](Miscellaneous/cover-1.png)](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
 
@@ -27,10 +32,10 @@ The Harry Potter and the Methods of Rationality series comprises six volumes all
 
 ```yaml
 Title: Harry Potter and the Methods of Rationality
-Pages: 352
+Pages: 354
 Size: 6" x 9"
-Weight: 1.30 lbs.
-Price: $8.29 (Premium)
+Weight: 1.50 lbs.
+Price: $5.79
 ```
 
 [![Volume 2: Harry Potter and the Professor's Games](Miscellaneous/cover-2.png)](2%20-%20Harry%20Potter%20and%20the%20Professor's%20Games/cover.png)
@@ -41,8 +46,8 @@ Price: $8.29 (Premium)
 Title: Harry Potter and the Professor's Games
 Pages: 288 
 Size: 6" x 9"
-Weight: 1.08 lbs.
-Price: $7.01 (Premium)
+Weight: Unknown
+Price: $5.13 (Premium)
 ```
 
 [![Volume 3: Harry Potter and the Shadows of Death](Miscellaneous/cover-3.png)](3%20-%20Harry%20Potter%20and%20the%20Shadows%20of%20Death/cover.png)
@@ -53,9 +58,13 @@ Price: $7.01 (Premium)
 Title: Harry Potter and the Shadows of Death
 Pages: 398 
 Size: 6" x 9"
-Weight: 1.46 lbs.
-Price: $9.21 (Premium)
+Weight: Unknown
+Price: $6.27 (Premium)
 ```
+
+
+**CURRENT EDDIT ENDS HERE**
+
 
 [![Volume 4: Harry Potter and the Phoenix's Call](Miscellaneous/cover-4.png)](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
 
@@ -96,16 +105,19 @@ Price: $7.69 (Premium)
 
 ## Instructions
 
-To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with Lulu. We're going to use Lulu's "private" feature, so that the books are only visible to you, so that you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
+To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with ~~Lulu~~Blurb. We're going to use Blurbs's "private" feature, so that the books are only visible to you, so that you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
 
-If you haven't made a book on Lulu before, follow the [step by step instructions](Instructions.md).
+If you haven't made a book on Blurb before, follow the [step by step instructions](Instructions.md).
 
 If you have, here's the TL;DR:
 
-- Create a new **Premium 6" x 9" paperback** book on Lulu.
+- Create an account on Blurb.
+- Create a new **Trade 6" x 9" paperback** book on Blurb.
+- Make sure to select "Create and Upload your PDF"
+- Upload Cover and Pages as seperate files.
+- Select soft cover and Economy B&W paper.
+- Use Blurb's free IBN number. Yes I know it sucks, but this is how blurb tracks their online books, there is no way around it.
 - **Make the book only available to yourself**.
-- Add the `contents.pdf` file for the volume.
-- Using the **advanced one-piece cover designer**, add the `cover.png` file.
 - Repeat for each volume.
 - Order one proof copy of each!
 
@@ -130,3 +142,4 @@ Have fun!
 ## Thanks
 
 Thanks to [J. K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) for creating the entire [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) universe, characters, etc. Thanks to [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) for writing [Harry Potter and the Methods of Rationality](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality). And thanks to everyone else who has done interesting things with Harry Potter and the Methods of Rationality for the inspiration!
+Thank you Ianstormtaylor, for doing all the heavy lifting on this project.
