@@ -3,33 +3,33 @@
 
 To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with Blurb. We're not going to use Blurb's "Sell My Book" feature, so that the books are only visible to you, this way you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
 
-![](Miscellaneous/step-1.png)
+![](Miscellaneous/step-01.png)
 
 To start, download a copy of this repository as a **ZIP** file, and extract it somewhere on your computer.
 
-![](Miscellaneous/step-2.png)
+![](Miscellaneous/step-02.png)
 
 You should end up with a folder that contains subfolders with the resources needed to create each volume. We'll use these files during the Blurb book creation process.
 
 If you don't have one already, you'll need to create your own Blurb account.
 
-![](Miscellaneous/step-3.png)
+![](Miscellaneous/step-03.png)
 
 Then, on the homepage, click **Get Started**.
 
-![](Miscellaneous/step-4.png)
+![](Miscellaneous/step-04.png)
 
 And then, select **Trade Books**, then select **6x9 in, 15x23cm** as the size. Finally, click **Create and Upload Your PDF**
 
-![](Miscellaneous/step-5.png)
+![](Miscellaneous/step-05.png)
 
 Click **Upload PDF.**
 
-![](Miscellaneous/step-6.png)
+![](Miscellaneous/step-06.png)
 
 Upload cover and pages as seperate files. Click choose file for each of the requested files and navigate to where you extracted the files on your computer. Put the cover.pdf in and contents.pdf in their respective sections by selecting "Open."
 
-![](Miscellaneous/step-7.png)
+![](Miscellaneous/step-07.png)
 
 - Select soft cover
 - Choose Economy B&W. You may decide if you want cream or white colored pages (I prefer cream)
@@ -38,12 +38,12 @@ Upload cover and pages as seperate files. Click choose file for each of the requ
 - Choose author name. I just put Eliezer Yudkowsky in the file, but I don't think it matters.
 - Click Upload to blurb.
 
-![](Miscellaneous/step-8.png)
+![](Miscellaneous/step-08.png)
 
 After the website checks the PDFs for errors, it should bring you to this screen after doing a preflight.
 Click Preview Book.
 
-![](Miscellaneous/step-9.png)
+![](Miscellaneous/step-09.png)
 
 You can check the cover and pages if you would like.
 Scroll down and click order book.
