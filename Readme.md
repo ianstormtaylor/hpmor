@@ -62,10 +62,6 @@ Weight: Unknown
 Price: $6.27 (Premium)
 ```
 
-
-**CURRENT EDDIT ENDS HERE**
-
-
 [![Volume 4: Harry Potter and the Phoenix's Call](Miscellaneous/cover-4.png)](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
 
 > Hermione Granger had read somewhere once, that one of the keys to staying thing was to pay attention to the food you ate, to notice yourself eating it, so that you were satisfied with the meal. This morning she'd made herself toast, and put butter on the toast, and cinnamon on the butter, and it really should've been enough to get her to _notice_...
@@ -75,9 +71,9 @@ Title: Harry Potter and the Phoenix's Call
 Pages: 394
 Size: 6" x 9"
 Weight: Unknkown
-Price: $6.21 (Premium)
+Price: $6.21
 ```
-
+**CURRENT EDDIT ENDS HERE**
 [![Volume 5: Harry Potter and the Last Enemy](Miscellaneous/cover-5.png)](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
 
 > The four of them gathered once more around the ancient desk of the Headmaster of Hogwarts, with its drawers within drawers within drawers, wherein all the past paperwork of the Hogwarts School was stored; legend had it that Headmistress Shehla had once gotten lost in that desk, and was, in fact, still there, and wouldn't be let out again until...
