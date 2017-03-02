@@ -56,7 +56,7 @@ Price: $5.13 (Premium)
 
 ```yaml
 Title: Harry Potter and the Shadows of Death
-Pages: 398 
+Pages: 402 
 Size: 6" x 9"
 Weight: Unknown
 Price: $6.27 (Premium)
@@ -68,22 +68,22 @@ Price: $6.27 (Premium)
 
 ```yaml
 Title: Harry Potter and the Phoenix's Call
-Pages: 394
+Pages: 396
 Size: 6" x 9"
-Weight: Unknkown
+Weight: Unknown
 Price: $6.21
 ```
-**CURRENT EDDIT ENDS HERE**
+
 [![Volume 5: Harry Potter and the Last Enemy](Miscellaneous/cover-5.png)](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
 
 > The four of them gathered once more around the ancient desk of the Headmaster of Hogwarts, with its drawers within drawers within drawers, wherein all the past paperwork of the Hogwarts School was stored; legend had it that Headmistress Shehla had once gotten lost in that desk, and was, in fact, still there, and wouldn't be let out again until...
 
 ```yaml
 Title: Harry Potter and the Last Enemy
-Pages: 232
+Pages: 234
 Size: 6" x 9"
-Weight: 0.89 lbs.
-Price: $5.89 (Premium)
+Weight: Unknown
+Price: $4.59
 ```
 
 [![Volume 6: Harry Potter and the Philosopher's Stone](Miscellaneous/cover-6.png)](6%20-%20Harry%20Potter%20and%20the%20Philosopher's%20Stone/cover.png)
@@ -92,10 +92,10 @@ Price: $5.89 (Premium)
 
 ```yaml
 Title: Harry Potter and the Philosopher's Stone
-Pages: 322
+Pages: 324
 Size: 6" x 9"
-Weight: 1.20 lbs.
-Price: $7.69 (Premium)
+Weight: Unknown
+Price: $5.49
 ```
 
 
