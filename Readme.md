@@ -74,8 +74,8 @@ Price: $6.27 (Premium)
 Title: Harry Potter and the Phoenix's Call
 Pages: 394
 Size: 6" x 9"
-Weight: 1.44 lbs.
-Price: $9.13 (Premium)
+Weight: Unknkown
+Price: $6.21 (Premium)
 ```
 
 [![Volume 5: Harry Potter and the Last Enemy](Miscellaneous/cover-5.png)](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
@@ -105,7 +105,7 @@ Price: $7.69 (Premium)
 
 ## Instructions
 
-To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with ~~Lulu~~Blurb. We're going to use Blurbs's "private" feature, so that the books are only visible to you, so that you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
+To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with ~~Lulu~~ Blurb. We're going to use Blurbs's "private" feature, so that the books are only visible to you, so that you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
 
 If you haven't made a book on Blurb before, follow the [step by step instructions](Instructions.md).
 
