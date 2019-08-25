@@ -4,7 +4,7 @@
 This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_! It includes a cover design (`cover.png`) and the content block (`contents.pdf`) for each of the series's six volumes.
 
 
----
+## Volumes
 
 [![Volume 1: Harry Potter and the Methods of Rationality](Miscellaneous/cover-1.png)](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
 
