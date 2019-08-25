@@ -1,25 +1,10 @@
 
 ![Harry Potter and the Methods of Rationality](Miscellaneous/title.png)
 
-This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_, with [Lulu](http://www.lulu.com/)! 
-
-Eliezer Yudkowsky, or anyone else, isn't allowed to sell the book, because it's based on J. K. Rowling's copyrighted universe of characters. But, you _can_ create your own private copy of the book with Lulu, a service that prints books on demand, and then order yourself a proof copy. That way, you can experience it on paper!
-
-Want an ebook? Then you don't need this repository! Because that's [already officially supported](http://hpmor.com/).
+This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_! It includes a cover design (`cover.png`) and the content block (`contents.pdf`) for each of the series's six volumes.
 
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Volumes](#volumes)
-- [Instructions](#instructions)
-- [Praise](#praise)
-- [Thanks](#thanks)
-
-
-## Volumes
-
-The Harry Potter and the Methods of Rationality series comprises six volumes all together. This repository includes a `contents.pdf` and `cover.png` for each volume. And each volume costs **between $5 and $10**.
+---
 
 [![Volume 1: Harry Potter and the Methods of Rationality](Miscellaneous/cover-1.png)](1%20-%20Harry%20Potter%20and%20the%20Methods%20of%20Rationality/cover.png)
 
@@ -29,8 +14,6 @@ The Harry Potter and the Methods of Rationality series comprises six volumes all
 Title: Harry Potter and the Methods of Rationality
 Pages: 352
 Size: 6" x 9"
-Weight: 1.30 lbs.
-Price: $8.29 (Premium)
 ```
 
 [![Volume 2: Harry Potter and the Professor's Games](Miscellaneous/cover-2.png)](2%20-%20Harry%20Potter%20and%20the%20Professor's%20Games/cover.png)
@@ -41,8 +24,6 @@ Price: $8.29 (Premium)
 Title: Harry Potter and the Professor's Games
 Pages: 288 
 Size: 6" x 9"
-Weight: 1.08 lbs.
-Price: $7.01 (Premium)
 ```
 
 [![Volume 3: Harry Potter and the Shadows of Death](Miscellaneous/cover-3.png)](3%20-%20Harry%20Potter%20and%20the%20Shadows%20of%20Death/cover.png)
@@ -53,8 +34,6 @@ Price: $7.01 (Premium)
 Title: Harry Potter and the Shadows of Death
 Pages: 398 
 Size: 6" x 9"
-Weight: 1.46 lbs.
-Price: $9.21 (Premium)
 ```
 
 [![Volume 4: Harry Potter and the Phoenix's Call](Miscellaneous/cover-4.png)](4%20-%20Harry%20Potter%20and%20the%20Phoenix's%20Call/cover.png)
@@ -65,8 +44,6 @@ Price: $9.21 (Premium)
 Title: Harry Potter and the Phoenix's Call
 Pages: 394
 Size: 6" x 9"
-Weight: 1.44 lbs.
-Price: $9.13 (Premium)
 ```
 
 [![Volume 5: Harry Potter and the Last Enemy](Miscellaneous/cover-5.png)](5%20-%20Harry%20Potter%20and%20the%20Last%20Enemy/cover.png)
@@ -77,8 +54,6 @@ Price: $9.13 (Premium)
 Title: Harry Potter and the Last Enemy
 Pages: 232
 Size: 6" x 9"
-Weight: 0.89 lbs.
-Price: $5.89 (Premium)
 ```
 
 [![Volume 6: Harry Potter and the Philosopher's Stone](Miscellaneous/cover-6.png)](6%20-%20Harry%20Potter%20and%20the%20Philosopher's%20Stone/cover.png)
@@ -89,27 +64,7 @@ Price: $5.89 (Premium)
 Title: Harry Potter and the Philosopher's Stone
 Pages: 322
 Size: 6" x 9"
-Weight: 1.20 lbs.
-Price: $7.69 (Premium)
 ```
-
-
-## Instructions
-
-To get your own hard copies of each of the Harry Potter and the Methods of Rationality volumes, I'll walk you through how to print them with Lulu. We're going to use Lulu's "private" feature, so that the books are only visible to you, so that you aren't violating any copyright laws by "profiting" off of the works. (Don't worry, it's easy!)
-
-If you haven't made a book on Lulu before, follow the [step by step instructions](Instructions.md).
-
-If you have, here's the TL;DR:
-
-- Create a new **Premium 6" x 9" paperback** book on Lulu.
-- **Make the book only available to yourself**.
-- Add the `contents.pdf` file for the volume.
-- Using the **advanced one-piece cover designer**, add the `cover.png` file.
-- Repeat for each volume.
-- Order one proof copy of each!
-
-Have fun!
 
 
 ## Praise
@@ -125,8 +80,3 @@ Have fun!
 
 > "This is a book whose title still makes me laugh and yet it may just turn out to be one of the greatest books ever written. The writing is shockingly good, the plotting is some of the best in all of literature, and the stories are simply pure genius. I fear this book may never get the accoldaes it deserves, because it's too hard to look past the silly name and publishing model, but I hope you, dear reader, are wiser than that! A must-read."
 > —[Aaron Swartz](http://www.aaronsw.com/weblog/books2011)
-
-
-## Thanks
-
-Thanks to [J. K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) for creating the entire [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) universe, characters, etc. Thanks to [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) for writing [Harry Potter and the Methods of Rationality](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality). And thanks to everyone else who has done interesting things with Harry Potter and the Methods of Rationality for the inspiration!
