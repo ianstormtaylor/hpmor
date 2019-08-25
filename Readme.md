@@ -80,3 +80,8 @@ Size: 6" x 9"
 
 > "This is a book whose title still makes me laugh and yet it may just turn out to be one of the greatest books ever written. The writing is shockingly good, the plotting is some of the best in all of literature, and the stories are simply pure genius. I fear this book may never get the accoldaes it deserves, because it's too hard to look past the silly name and publishing model, but I hope you, dear reader, are wiser than that! A must-read."
 > —[Aaron Swartz](http://www.aaronsw.com/weblog/books2011)
+
+
+## Fonts
+
+The cover designs use the [Lumos](https://www.dafont.com/lumos.font) font.
