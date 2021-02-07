@@ -66,6 +66,12 @@ Pages: 322
 Size: 6" x 9"
 ```
 
+## Printing Instructions
+
+| Page Size    | Instructions Link                                         |
+| -------------|:---------------------------------------------------------:|
+| US 6″x9″     | [kabakchey/hpmor](https://github.com/kabakchey/hpmor-1)   |
+| B5 (ISO-216) | [atb00ker/hpmor](https://github.com/atb00ker/hpmor)       |
 
 ## Praise
 
